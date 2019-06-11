@@ -2,7 +2,7 @@ name: network_image_to_byte
 description: Convert network image to byte data as type Uint8List
 version: 0.0.1
 author: Yuda Prama<yudapramad@gmail.com>
-homepage:
+homepage: https://github.com/yudaprama/network_image_to_byte.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
